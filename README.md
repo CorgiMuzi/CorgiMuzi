@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Corgi%20Muzi&fontSize=75&animation=twinkling&fontColor=ffffff&fontAlignY=35&fontAlign=75)
 
-<div align="center" style="text-align:center">
+<div >
   
 <h3 align="center">:computer:My Languages</h3>
   
