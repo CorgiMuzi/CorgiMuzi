@@ -21,7 +21,7 @@
 
 
 <h3 align="center">Contacts</h3>
- <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/corgi_gamedev/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tomejerry99@gmail.com"/></a>
+ <a href="https://www.instagram.com/corgi_gamedev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/corgi_gamedev/"/></a>&nbsp
+  <a href="mailto:tomejerry99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tomejerry99@gmail.com"/></a>
   
 </div>
