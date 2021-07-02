@@ -1,5 +1,9 @@
 # KIM JIHUN
 
+### Hello, My name is Jihun. 
+### I'm making games using Unity & UE4
+### Try Contact me if you have any questions ( Addresses are exist on below )
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Corgi%20Muzi&fontSize=75&animation=twinkling&fontColor=ffffff&fontAlignY=35&fontAlign=75)
 
 <div >
