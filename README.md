@@ -33,7 +33,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorgiMuzi&layout=compact)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CorgiMuzi&count_private=true&show_icons=true&custom_title=CorgiMuzi's%20Github&title_color=ffffff&text_color=ffffff&icon_color=e6c619&bg_color=3,f3506a,61e269,00a3df&hide_border=true&boreder_radius=20)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CorgiMuzi&count_private=true&show_icons=true&custom_title=CorgiMuzi's%20Github&title_color=ffffff&text_color=ffffff&icon_color=e6c619&bg_color=3,f3506a,61e269,00a3df&hide_border=true&boreder_radius=100)
 
 
 <h3 >:phone:Contacts</h3>
