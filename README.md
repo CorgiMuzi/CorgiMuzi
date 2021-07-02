@@ -21,6 +21,8 @@
   
  </p>
   
+  
+  <h3 align="center">:clipboard:Stats</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorgiMuzi&layout=compact)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CorgiMuzi&hide=prs,contribs&count_private=true&show_icons=true&theme=onedark&custom_title=CorgiMuzi's%20Github)
