@@ -4,7 +4,7 @@
 
 <div >
   
-<h3 align="center">:computer:My Languages</h3>
+<h3 >:computer:My Languages</h3>
   
 <p >
   
