@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-ffd800?style=flat-square&logo=MySql&logoColor=Black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-ffd800?style=flat-square&logo=MySQL&logoColor=Black"/></a>&nbsp 
 </p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorgiMuzi&layout=compact)  
