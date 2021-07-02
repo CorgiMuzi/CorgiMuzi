@@ -7,8 +7,8 @@
 <h3 align="center">:computer:My Languages</h3>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
+  
+  <img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-informational"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-ffd800?style=flat-square&logo=MySQL&logoColor=Black"/></a>&nbsp 
 </p>
 
