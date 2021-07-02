@@ -1,7 +1,6 @@
 # KIM JIHUN
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Corgi%20Muzi&fontSize=75&animation=twinkling&fontColor=ffffff&fontAlignY=35&fontAlign=75)
-)
 
 <p align="center"> Techs that I've used at least once </p>
 
