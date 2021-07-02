@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/MySQL-ffd800?style=flat-square&logo=MySQL&logoColor=Black"/></a>&nbsp 
 </p>
 
-<h3 align="center">Working Space</h3>
-
+<h3 align="center">:wrench:Working Tools</h3>
+ <img src="https://img.shields.io/badge/rider-#000000?style=flat-square&logo=Rider&logoColor=white"/></a>&nbsp 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorgiMuzi&layout=compact)  
 
