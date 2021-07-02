@@ -9,6 +9,7 @@
 <p align="center">
   
   <img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-informational?logo=C%2B%2B"/></a>
+  <img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-77c416?logo=C%20Sharp"/></a>
   <img src="https://img.shields.io/badge/MySQL-ffd800?style=flat-square&logo=MySQL&logoColor=Black"/></a>
 </p>
 
