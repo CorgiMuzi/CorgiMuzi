@@ -8,7 +8,7 @@
   
 <p align="center">
   
-  <img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-informational?logo=C%2B%2B&labelColor=0020cc"/></a>
+  <img src="https://img.shields.io/badge/C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-informational?logo=C%2B%2B&labelColor=001aa3"/></a>
   <img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-77c416?logo=C%20Sharp"/></a>
   <img src="https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-ffd700?logo=MySQL&logoColor=white"/></a>
 </p>
