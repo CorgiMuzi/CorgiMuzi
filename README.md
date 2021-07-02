@@ -13,7 +13,9 @@
 </p>
 
 <h3 align="center">:wrench:Working Tools</h3>
+<p align="center">
  <img src="https://img.shields.io/badge/Rider-#000000?style=flat-square&logo=rider&logoColor=white"/></a>&nbsp 
+ </p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorgiMuzi&layout=compact)  
 
