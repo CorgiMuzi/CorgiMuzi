@@ -38,6 +38,6 @@
 
 <h3 >:phone:Contacts</h3>
  <a href="https://www.instagram.com/corgi_gamedev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/corgi_gamedev/"/></a>&nbsp
-  <a href="mailto:tomejerry99@gmail.com"><img src="https://img.shields.io/badge/Gmail-e63d1f?style=flat-square&logo=Gmail&logoColor=white&link=tomejerry99@gmail.com"/></a>
+  <a href="mailto:tomejerry99@gmail.com"><img src="https://img.shields.io/badge/Gmail-e63d1f?style=flat-square&logo=Gmail&logoColor=white&link=kjhcorgi99@gmail.com"/></a>
   
 </div>
