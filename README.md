@@ -35,6 +35,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CorgiMuzi&count_private=true&show_icons=true&custom_title=CorgiMuzi's%20Github&title_color=ffffff&text_color=ffffff&icon_color=e6c619&bg_color=3,f3506a,61e269,00a3df&hide_border=true&boreder_radius=100)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=corgi_muzi)](https://solved.ac/corgi_muzi)
 
 <h3 >:phone:Contacts</h3>
   <a href="mailto:kjhcorgi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-e63d1f?style=flat-square&logo=Gmail&logoColor=white&link=kjhcorgi99@gmail.com"/></a>
