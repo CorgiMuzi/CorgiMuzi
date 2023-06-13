@@ -30,7 +30,8 @@
   
   
   <h3 >:clipboard:Stats</h3>
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCorgiMuzi%2Fhitcounter&count_bg=%233CCBC9&title_bg=%236D86F9&icon=notion.svg&icon_color=%23EAE282&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorgiMuzi&layout=compact)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CorgiMuzi&count_private=true&show_icons=true&custom_title=CorgiMuzi's%20Github&title_color=ffffff&text_color=ffffff&icon_color=e6c619&bg_color=3,f3506a,61e269,00a3df&hide_border=true&boreder_radius=100)
