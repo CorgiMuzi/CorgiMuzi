@@ -37,7 +37,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=corgi_muzi)](https://solved.ac/corgi_muzi)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCorgiMuzi%2Fhit-counter&count_bg=%233CCBC9&title_bg=%236D86F9&icon=notion.svg&icon_color=%23EAE282&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCorgiMuzi%2Fhit-counter&count_bg=%237ABC47&title_bg=%23F55D5D&icon=&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 <h3 >:phone:Contacts</h3>
   <a href="mailto:kjhcorgi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-e63d1f?style=flat-square&logo=Gmail&logoColor=white&link=kjhcorgi99@gmail.com"/></a>
   
