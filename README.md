@@ -33,7 +33,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorgiMuzi&layout=compact)  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=corgi_muzi)](https://solved.ac/corgi_muzi)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=corgi_muzi)](https://solved.ac/corgi_muzi/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCorgiMuzi%2Fhit-counter&count_bg=%237ABC47&title_bg=%23F55D5D&icon=&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 <h3 >:phone:Contacts</h3>
